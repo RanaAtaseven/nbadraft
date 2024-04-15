@@ -1,0 +1,5 @@
+Rana123,Rana,Ataseven,12345678,20,rataseven21@ku.edu.tr
+elo,elif,inan,elo123.!,21,elo@hotmail.com
+loli,Lorin,Karabulut,qwert123,20,loli@gmail.com
+arzu00,arzu,öztürk,asdfg123,40,djsndfs@ku.com
+esmeralda08,esmeralda,quasimado,notrdame1234,22,esm@gmail.com
